@@ -11,4 +11,4 @@ training data (optionally) for splitting the given dataset as input to the progr
 labels to the given data using overall rating (If rating > 3, set label as 'pos' else 'neg'). Next, it splits the extracted content to given <i> training_ <percent>.json </i> and <i> testing_ <percent>.json </i> files under the TrainFiles 
 and TestFiles folder. It then calls the train_sentiment_analysis function and performs training using the NaiveBayesClassifier and gives
 trainer classifier as output. It then calls the test_sentiment_analysis function and tests the data using this classifier, evaluates
-pos/neg and gives the label distribution for each review - <i> stats_result.json (which shows the predicted orientation of the review)  </i>. The program also shows top informative features as an output - <i> features_information.txt </i> </p>
+pos/neg and gives the label distribution for each review - </i> stats_result.json (which shows the predicted orientation of the review)  </i>. The program also shows top informative features as an output - <i> features_information.txt </i> </p>
