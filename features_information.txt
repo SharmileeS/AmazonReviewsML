@@ -1,0 +1,11 @@
+Most Informative Features
+         contains(waste) = True              neg : pos    =     45.8 : 1.0
+          contains(Save) = True              neg : pos    =     24.7 : 1.0
+       contains(choices) = True              neg : pos    =     24.7 : 1.0
+       contains(willing) = True              neg : pos    =     24.7 : 1.0
+         contains(Their) = True              neg : pos    =     17.6 : 1.0
+         contains(gross) = True              neg : pos    =     17.6 : 1.0
+        contains(finger) = True              neg : pos    =     17.6 : 1.0
+        contains(stress) = True              neg : pos    =     17.6 : 1.0
+        contains(afraid) = True              neg : pos    =     17.6 : 1.0
+        contains(pocket) = True              neg : pos    =     17.6 : 1.0
